@@ -33,7 +33,5 @@
 - 2) give public key to Github
 
 ## save in github
-
-git remote add origin https://github.com/Davenport70/day2assignment.git
-
-git push -u origin master
+- for the first time you save git@github.com:Davenport70/day2assignment.git
+- else use can use git push -u origin master
